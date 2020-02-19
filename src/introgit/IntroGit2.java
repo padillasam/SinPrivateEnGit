@@ -13,7 +13,7 @@ public class IntroGit2 {
     public static void main(String[] args) {
         System.out.println("Ahora en la segunda clase del proyecto");
         var x=100;
-        System.out.println(x);
+        System.out.println(x+x);
     }
     
 }
